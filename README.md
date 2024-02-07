@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">Python dev from Poland - now focused on machine learning</h3>
 
+<h2 align="center">Looking for a job!</h2>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrb9&label=Profile%20views&color=0e75b6&style=flat" alt="piotrb9" /> </p>
 
 - 🔭 I’m currently working on [Pancake Prediction ML project](https://github.com/piotrb9/pancake-predict-ml)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check my projects:</h3>
 <p align="left">
+  [Pancake Prediction ML project](https://github.com/piotrb9/pancake-predict-ml)
+  [ETH Wallet Analyzer]([https://github.com/piotrb9/pancake-predict-ml](https://github.com/piotrb9/wallet-analyzer))
+  [Telegram AI Assistant]([https://github.com/piotrb9/pancake-predict-ml](https://github.com/piotrb9/telegram-assistant-openai))
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
