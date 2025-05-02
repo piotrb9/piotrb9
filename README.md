@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">Python dev from Poland - now focused on machine learning</h3>
-
-<h2 align="center">Currently looking for a job!</h2>
+<h3 align="center">Python dev from Poland - now focused on cybersecurity&cloud</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrb9&label=Profile%20views&color=0e75b6&style=flat" alt="piotrb9" /> </p>
